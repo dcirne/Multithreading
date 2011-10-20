@@ -1,0 +1,10 @@
+# Ignore builds
+build
+# Ignore objects and archives.
+*.[oa]
+*.pbxuser
+.DS_Store
+*.mode1v3
+xcuserdata
+Run
+
